@@ -140,8 +140,7 @@ Practical Python automation notes. Every topic shows the script, the command and
 
 ## 👨‍🏫 About the author
 
-**Ahmad Hassan** | AI/ML Engineer & Instructor with 5+ years of experience
-1,500+ hours of live teaching, 100+ students mentored from medicine, business and engineering into data and DevOps roles.
+**Ahmad Hassan** | AI Engineer and mentor
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ahmadhassan--aiops.github.io-0EA5A4)](https://ahmadhassan-aiops.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad%20Hassan-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-hassan-79a44b1a3)
